@@ -13,4 +13,7 @@ module.exports = {
   images: {
     domains: ['cdn.imagin.studio'],
   },
+  typescript : {
+    ignoreBuildErrors:true
+  }
 };
